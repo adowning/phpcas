@@ -30,6 +30,3 @@ public/hot
 telescope.sqlite
 storage/telescope/*
 storage/ignition/errors/*.json
-
-# Ignore app/games_server directory
-app/games_server/
